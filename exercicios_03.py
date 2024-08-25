@@ -38,7 +38,6 @@ print("Ano:", ano)
 
 # 15 - Escreva um programa que concatene duas strings fornecidas pelo usuário.
 
-
 valor_01 = str(input("Digite seu nome: "))
 
 valor_02 = str(input("Digite seu sobre nome: "))
